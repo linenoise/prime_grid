@@ -7,7 +7,7 @@ use Data::Dumper;
 # A brute force test of grid parity for the fifty million prime numbers
 # Why?  http://www.futilitycloset.com/2012/06/12/transversal-of-primes/
 #
-# Copyright (c) 2012 by Dann Stayskal
+# Copyright (c) 2012 by Danne Stayskal
 # Available under the GPL v.3 (see LICENSE.txt)
 #
 # Because primes.
